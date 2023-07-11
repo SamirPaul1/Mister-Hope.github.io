@@ -27,7 +27,7 @@
   ],
   "packageManager": "pnpm@8.6.6",
   "dependencies": {
-    "@vuepress/cli": "2.0.0-beta.64",
+    "@vuepress/cli": "2.0.0-beta.66",
     "@vuepress/client": "2.0.0-beta.64",
     "@vuepress/plugin-docsearch": "2.0.0-beta.64",
     "sass-loader": "13.3.2",
